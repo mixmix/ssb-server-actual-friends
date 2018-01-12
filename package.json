@@ -1,0 +1,25 @@
+{
+  "name": "ssb-server-actual-friends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixmix/ssb-server-actual-friends.git"
+  },
+  "keywords": ["scuttlebutt", "p2p"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mixmix/ssb-server-actual-friends/issues"
+  },
+  "homepage": "https://github.com/mixmix/ssb-server-actual-friends#readme",
+  "dependencies": {
+    "flumeview-reduce": "^1.3.12",
+    "lodash": "^4.17.4",
+    "pull-stream": "^3.6.1"
+  }
+}
